@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Vinícius
-- 🔭 atualmente praticando front-end - 🌱 Estudo JavaScript - 😄 Pronouns: Myself
+- ⏳atualmente praticando front-end - 📚 Estudo JavaScript - 😄 Pronouns: Myself
 
 <div align="center">
   <a href="https://github.com/viniciusslopes">
